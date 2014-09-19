@@ -1,9 +1,7 @@
 cleaningdata
 ============
 
-Create a "Project" directory, get the code from github into the "Code" directory.  
-
-Directory Structure:
+Directory Structure is:
 
 + Project
  + Code
@@ -29,4 +27,3 @@ To run the code:
 * make sure the "dir1" variable in run_analysis.R is set correctly - e.g. dir1<-"HAR Dataset\\UCI HAR Dataset\\";
 * run the code: source('code/run_analysis.R')
 * the output is "cleandata.txt"
-
