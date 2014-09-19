@@ -53,7 +53,7 @@ The original explaination of the data is best explained by this extract from "fe
 
 The tided data only includes the mean and std values.  Additionally the training and test data have been combined into a single file - now distinguished by the "isTraining" column. The activity
 
-Here's the columns in the tidied data:
+Here's the columns in the tidied data ("cleandata.txt"):
 
 Column                                | Type    | Notes
 ------------------------------------- | ------- | -------------------------------------------------------
